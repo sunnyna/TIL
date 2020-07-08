@@ -64,7 +64,7 @@ $$
 
       git add <filename>
 
-   2. 그냥 다 올리기 git add ???
+   2. 그냥 다 올리기 git add .
 
 5. snapshot(사진)직기`$ git commit `
 
