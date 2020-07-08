@@ -80,3 +80,30 @@ $$
 4. `$ git push origin master`로 단축 명령 하기 `$ git push -u origin master`
 5.  다른 컴퓨터에서 remote repo 받아오기 `$  git clone <url>`
 6.  이후 remote repo 변경사항을 local repo에서 반영하기 ` $ git pull`
+
+
+
+# TIL 관리 시나리오
+
+1. 멀캠에 온다.
+
+2. `$ git pull`
+
+3. 열공
+
+4. 중간중간 ` git add . ` & `git commit`
+
+5. 집가기전에 `$ git push`
+
+6. 집도착
+
+7. `$ git pull`
+
+8. 복습 및 자습(`git commit`)
+
+9. 마지막으로 `$ git push`
+
+10. 1번으로
+
+    
+
