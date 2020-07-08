@@ -33,8 +33,9 @@ $$
 # 집컴퓨터 세팅
 
 1. git 다운로드 및  설정
-2.  `$git clone <url>`
-3. 
+2.  windows 키 누르고 => git bash를 찾아서 실행(집컴의 홈폴더)
+3. `$git config ....global...`
+4. `$git clone <url>`
 
 # git intro
 
